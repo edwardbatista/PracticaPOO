@@ -1,0 +1,15 @@
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/bin/Debug/net7.0/PracticaPOO
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/bin/Debug/net7.0/PracticaPOO.deps.json
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/bin/Debug/net7.0/PracticaPOO.runtimeconfig.json
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/bin/Debug/net7.0/PracticaPOO.dll
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/bin/Debug/net7.0/PracticaPOO.pdb
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/PracticaPOO.csproj.AssemblyReference.cache
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/PracticaPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/PracticaPOO.AssemblyInfoInputs.cache
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/PracticaPOO.AssemblyInfo.cs
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/PracticaPOO.csproj.CoreCompileInputs.cache
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/PracticaPOO.dll
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/refint/PracticaPOO.dll
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/PracticaPOO.pdb
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/PracticaPOO.genruntimeconfig.cache
+/Users/eduardobatista/Projects/PracticaPOO/PracticaPOO/obj/Debug/net7.0/ref/PracticaPOO.dll
